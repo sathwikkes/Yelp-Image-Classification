@@ -1,0 +1,8 @@
+# ignore Mac System files
+
+.DS_store
+# ignore data bc too many photos
+# unnecessary junk as well
+data/
+Dataset_User_Agreement.pdf
+
