@@ -1,0 +1,5 @@
+.DS_Store
+node_modules
+rand_pics/
+rand_pics2/
+test/
